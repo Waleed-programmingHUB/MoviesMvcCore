@@ -19,7 +19,7 @@
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Backend**: ASP.NET Core MVC
-- **Database**: SQL Server or SQLite
+- **Database**: SQL Server
 - **ORM**: Entity Framework Core
 - **Version Control**: Git (GitHub)
 
